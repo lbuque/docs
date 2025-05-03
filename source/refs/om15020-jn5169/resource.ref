@@ -4,6 +4,8 @@
 .. _ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_1000000.bin: ../../../_static/om15020-jn5169/firmware/ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_1000000.bin
 .. |ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_1000000.bin| replace:: ZigbeeNodeControlBridge_JN5169_GP_Proxy_COORDINATOR_1000000.bin
 
+.. _ZiGate_v3.23-OPDM.bin: ../../../_static/om15020-jn5169/firmware/ZiGate_v3.23-OPDM.bin
+.. |ZiGate_v3.23-OPDM.bin| replace:: ZiGate_v3.23-OPDM.bin
 
 .. _原理图.pdf: ../../../_static/om15020-jn5169/hardware/OM15020_DR1198_Schematic_1V0b.pdf
 .. |原理图.pdf| replace:: 原理图.pdf

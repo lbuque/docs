@@ -11,6 +11,8 @@ OM15020-JN5169
     sniffer-wireshark.rst
     sniffer-ubiqua.rst
     zgwui.rst
+    home-assistant.rst
+    zigbee2mqtt.rst
     resource.rst
 
 OM15020 套装包含JN5169 USB Dongle ，可用作 ZigBee 无线网络中的节点，

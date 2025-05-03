@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'M28K'
-copyright = '2024, lbuque@163.com'
+project = 'YY-Products'
+copyright = '2025, lbuque@163.com'
 author = 'lbuque@163.com'
 release = '0.1.0'
 
