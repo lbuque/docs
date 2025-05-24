@@ -1,0 +1,24 @@
+.. |FPC-SHT30.png| image:: /_static/fpc-series/fpc-sht30/img/FPC-SHT30.png
+
+.. |FPC-SHT30-1.png| image:: /_static/fpc-series/fpc-sht30/img/FPC-SHT30-1.png
+
+.. |FPC-SHT30-2.png| image:: /_static/fpc-series/fpc-sht30/img/FPC-SHT30-2.png
+
+.. |FPC-SHT30-3.png| image:: /_static/fpc-series/fpc-sht30/img/FPC-SHT30-3.png
+
+.. |sht30_pinmap.png| image:: /_static/fpc-series/fpc-sht30/img/sht30_pinmap.png
+
+.. _原理图.pdf: /_static/fpc-series/fpc-sht30/hardware/SCH_SHT30-V03-6P_2024-12-16.pdf
+.. |原理图.pdf| replace:: 原理图.pdf
+
+.. _尺寸图.pdf: /_static/fpc-series/fpc-sht30/hardware/PCB_SHT30-V03-6P_2024-12-16.pdf
+.. |尺寸图.pdf| replace:: 尺寸图.pdf
+
+.. _SHT3x数据手册.pdf: /_static/fpc-series/fpc-sht30/docs/Datasheet_SHT3x_DIS.pdf
+.. |SHT3x数据手册.pdf| replace:: SHT3x数据手册.pdf
+
+.. _SHT3x注意事项.pdf: /_static/fpc-series/fpc-sht30/docs/HT_Handling_Instructions_SHTxx.pdf
+.. |SHT3x注意事项.pdf| replace:: SHT3x注意事项.pdf
+
+.. _购买链接: https://item.taobao.com/item.htm?id=866870632646
+.. |购买链接| replace:: 🛒 购买链接

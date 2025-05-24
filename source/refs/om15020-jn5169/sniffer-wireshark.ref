@@ -1,8 +1,0 @@
-.. |Preferences.png| image:: ../../_static/om15020-jn5169/img/sniffer-wireshark/Preferences.png
-.. |ThreadPackage.png| image:: ../../_static/om15020-jn5169/img/sniffer-wireshark/ThreadPackage.png
-.. |TrustCenterLinkKey.png| image:: ../../_static/om15020-jn5169/img/sniffer-wireshark/TrustCenterLinkKey.png
-.. |ZBSniffer.png| image:: ../../_static/om15020-jn5169/img/sniffer-wireshark/ZBSniffer.png
-.. |ZigBeePackage.png| image:: ../../_static/om15020-jn5169/img/sniffer-wireshark/ZigBeePackage.png
-
-.. _WireShark: https://www.wireshark.org/
-.. |WireShark| replace:: WireShark
