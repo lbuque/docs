@@ -3,3 +3,9 @@
     :target: fpc-sht30/index.html
 
 .. _FPC-SHT30: fpc-sht30/index.html
+
+.. |FPC-SHT40| image:: /_static/fpc-series/fpc-sht40/img/FPC-SHT30.png
+    :width: 400px
+    :target: fpc-sht40/index.html
+
+.. _FPC-SHT40: fpc-sht40/index.html

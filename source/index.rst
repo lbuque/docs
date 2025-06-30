@@ -26,15 +26,21 @@ ZigBee-Series
 FPC-Series
 ----------
 
-==================
-|FPC-SHT30|
-==================
+================== ==================
+|FPC-SHT30|        |FPC-SHT40|
+================== ==================
 
 .. |FPC-SHT30| image:: /_static/fpc-series/fpc-sht30/img/FPC-SHT30.png
     :width: 400px
     :target: fpc-series/fpc-sht30/index.html
 
 .. _FPC-SHT30: fpc-series/fpc-sht30/index.html
+
+.. |FPC-SHT40| image:: /_static/fpc-series/fpc-sht40/img/FPC-SHT30.png
+    :width: 400px
+    :target: fpc-series/fpc-sht40/index.html
+
+.. _FPC-SHT40: fpc-series/fpc-sht40/index.html
 
 
 .. toctree::
