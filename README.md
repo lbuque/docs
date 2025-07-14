@@ -1,4 +1,4 @@
-# UIFLOW2 API Documentation
+# Documentation
 
 # Building Documentation
 

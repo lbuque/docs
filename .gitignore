@@ -1,2 +1,5 @@
+.vscode
 build
 *.mo
+.venv
+.DS_Store

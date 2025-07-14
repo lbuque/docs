@@ -1,0 +1,28 @@
+.. |SparkC3-Pinmap.png| image:: /_static/controller/spark-c3/img/SparkC3-Main.png
+    :width: 400px
+
+.. _ESP32-C3数据手册.pdf: /_static/controller/spark-c3/docs/ESP32-C3_Datasheet.pdf
+.. |ESP32-C3数据手册.pdf| replace:: ESP32-C3数据手册.pdf
+
+.. _Arduino开发指南.pdf: /_static/controller/spark-c3/docs/Arduino_Development_Guide.pdf
+.. |Arduino开发指南.pdf| replace:: Arduino开发指南.pdf
+
+.. _原理图.pdf: /_static/controller/spark-c3/hardware/Spark-C3_Schematic.pdf
+.. |原理图.pdf| replace:: 原理图.pdf
+
+.. _PCB设计文件.pdf: /_static/controller/spark-c3/hardware/Spark-C3_PCB.pdf
+.. |PCB设计文件.pdf| replace:: PCB设计文件.pdf
+
+.. _示例代码.zip: /_static/controller/spark-c3/software/Spark-C3_Examples.zip
+.. |示例代码.zip| replace:: 示例代码.zip
+
+.. _开发环境配置.zip: /_static/controller/spark-c3/software/Development_Environment.zip
+.. |开发环境配置.zip| replace:: 开发环境配置.zip
+
+.. |product.png| image:: /_static/controller/spark-c3/img/spark-c3-product.png
+    :target: https://example.com/spark-c3-purchase
+
+.. |arduino-config.png| image:: /_static/controller/spark-c3/img/arduino-config.png
+
+.. _SparkC3_PlatformIO.zip: /_static/controller/spark-c3/software/SparkC3_PlatformIO.zip
+.. |SparkC3_PlatformIO.zip| replace:: SparkC3_PlatformIO.zip

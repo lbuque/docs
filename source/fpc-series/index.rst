@@ -6,7 +6,7 @@ FPC-Series
 FPC-Series 有以下产品：
 
 ================== ==================
-|FPC-SHT30|        |FPC-SHT40|
+|FPC-SHT30|        |FPC-ENV2.png|
 ================== ==================
 
 .. toctree::

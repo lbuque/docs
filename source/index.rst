@@ -1,6 +1,19 @@
 YY-Products Docs
 ================
 
+
+Controller
+----------
+
+|SparkC3-Main.png|
+
+.. |SparkC3-Main.png| image:: /_static/controller/spark-c3/img/SparkC3-Main.png
+    :width: 400px
+    :target: controller/spark-c3/index.html
+
+
+.. _SparkC3-Main.png: controller/spark-c3/index.html
+
 ZigBee-Series
 -------------
 
@@ -27,7 +40,7 @@ FPC-Series
 ----------
 
 ================== ==================
-|FPC-SHT30|        |FPC-SHT40|
+|FPC-SHT30|        |FPC-ENV2|
 ================== ==================
 
 .. |FPC-SHT30| image:: /_static/fpc-series/fpc-sht30/img/FPC-SHT30.png
@@ -36,15 +49,16 @@ FPC-Series
 
 .. _FPC-SHT30: fpc-series/fpc-sht30/index.html
 
-.. |FPC-SHT40| image:: /_static/fpc-series/fpc-sht40/img/FPC-SHT30.png
+.. |FPC-ENV2| image:: /_static/fpc-series/fpc-sht40/img/FPC-ENV2.png
     :width: 400px
     :target: fpc-series/fpc-sht40/index.html
 
-.. _FPC-SHT40: fpc-series/fpc-sht40/index.html
+.. _FPC-ENV2: fpc-series/fpc-sht40/index.html
 
 
 .. toctree::
     :hidden:
 
+    controller/index.rst
     zigbee-series/index.rst
     fpc-series/index.rst

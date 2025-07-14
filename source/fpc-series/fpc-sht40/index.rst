@@ -6,7 +6,7 @@ FPC-SHT40
 .. include:: ../../refs/fpc-series/fpc.sht40.ref
 
 ================== ==================
-|FPC-SHT40.png|    |FPC-SHT40-1.png|
+|FPC-ENV2.png|     |FPC-ENV2-1.png|
 ================== ==================
 
 简介
@@ -123,5 +123,6 @@ arduino
 - |尺寸图.pdf|_
 - |SHT4x数据手册.pdf|_
 - |SHT4x注意事项.pdf|_
+- |所有资源|_
 
 |购买链接|_
