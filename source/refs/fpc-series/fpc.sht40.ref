@@ -6,10 +6,10 @@
 
 .. |FPC-ENV2-Pinmap.png| image:: /_static/fpc-series/fpc-sht40/img/FPC-ENV2-Pinmap.png
 
-.. _原理图.pdf: ../../_static/fpc-series/fpc-sht40/hardware/SCH_SHT40-V01-6P_2025-07-14.pdf
+.. _原理图.pdf: ../../_static/fpc-series/fpc-sht40/hardware/FPC-SHT40-CCStudio-SCH.pdf
 .. |原理图.pdf| replace:: 原理图.pdf
 
-.. _尺寸图.pdf: ../../_static/fpc-series/fpc-sht40/dimensions/FPC-ENV2-CCStudio-Dimensions.pdf
+.. _尺寸图.pdf: ../../_static/fpc-series/fpc-sht40/dimensions/FPC-SHT40-CCStudio-Dimensions.pdf
 .. |尺寸图.pdf| replace:: 尺寸图.pdf
 
 .. _SHT4x数据手册.pdf: ../../_static/fpc-series/fpc-sht40/docs/HT_DS_Datasheet_SHT4x_5.pdf

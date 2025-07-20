@@ -8,10 +8,10 @@
 
 .. |sht30_pinmap.png| image:: /_static/fpc-series/fpc-sht30/img/sht30_pinmap.png
 
-.. _原理图.pdf: ../../_static/fpc-series/fpc-sht30/hardware/SCH_SHT30-V03-6P_2024-12-16.pdf
+.. _原理图.pdf: ../../_static/fpc-series/fpc-sht30/hardware/FPC-SHT30-CCStudio-SCH.pdf
 .. |原理图.pdf| replace:: 原理图.pdf
 
-.. _尺寸图.pdf: ../../_static/fpc-series/fpc-sht30/hardware/PCB_SHT30-V03-6P_2024-12-16.pdf
+.. _尺寸图.pdf: ../../_static/fpc-series/fpc-sht30/dimensions/FPC-SHT30-CCStudio-Dimensions.pdf
 .. |尺寸图.pdf| replace:: 尺寸图.pdf
 
 .. _SHT3x数据手册.pdf: ../../_static/fpc-series/fpc-sht30/docs/Datasheet_SHT3x_DIS.pdf
