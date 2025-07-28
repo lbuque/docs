@@ -1,16 +1,24 @@
 USB Power模块(适用于继电器控制)
-============================
+=================================
+
+.. include:: ../../refs/controller/spark-c3/usb-power.ref
 
 本章节介绍如何使用 SparkC3 控制 USB Power 模块。
 
 本教程同样适用于市场上销售的继电器控制模块。
+
+原理图
+-------
+
+|schematic.png|
+
 
 硬件连接
 --------
 
 将 SparkC3 和 USB Power 模块连接起来，确保连接正确。
 
-放一个图片
+|spark-c3-kit.png|
 
 基础代码示例
 ------------
@@ -152,7 +160,7 @@ Wi-Fi 远程控制
 2. 在 Arduino IDE 中打开上述代码。
 3. 替换 Wi-Fi SSID 和密码。
 4. 在弹出的对话框中选择正确的串口设备
-4. 上传代码到 SparkC3。
+5. 上传代码到 SparkC3。
 6. 等待固件烧录完成
 7. 将 SparkC3 连接到 USB Power 模块。
 

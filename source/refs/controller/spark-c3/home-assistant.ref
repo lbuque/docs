@@ -1,0 +1,35 @@
+
+.. |install-button| raw:: html
+
+    <script type="module" src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module"></script>
+
+    <style>
+        esp-web-install-button button[slot="activate"] {
+            background-color: #03a9f4 !important;
+            color: #ffffff !important;
+            border: none !important;
+            padding: 10px 20px !important;
+            border-radius: 4px !important;
+            font-size: 14px !important;
+            cursor: pointer !important;
+        }
+        esp-web-install-button button[slot="activate"]:hover {
+            background-color: #0288d1 !important;
+        }
+    </style>
+
+    <esp-web-install-button manifest="https://raw.githubusercontent.com/lbuque/docs/refs/heads/master/source/_static/controller/spark-c3/firmware/manifest.json">
+        <button slot="activate">Connect</button>
+        <span slot="unsupported">您的浏览器不支持此功能，请使用 Chrome、Edge 或其他基于 Chromium 的浏览器。</span>
+        <span slot="not-allowed">请通过 HTTPS 访问此页面以使用固件安装功能。</span>
+    </esp-web-install-button>
+
+.. |add-to-ha.png| image:: /_static/controller/spark-c3/img/home-assistant/add-to-ha.png
+
+.. |config-wifi.png| image:: /_static/controller/spark-c3/img/home-assistant/config-wifi.png
+
+.. |control.png| image:: /_static/controller/spark-c3/img/home-assistant/control.png
+
+.. |esp32-atom-flash-06.png| image:: /_static/controller/spark-c3/img/home-assistant/esp32-atom-flash-06.png
+
+.. |install-firmware.png| image:: /_static/controller/spark-c3/img/home-assistant/install-firmware.png
