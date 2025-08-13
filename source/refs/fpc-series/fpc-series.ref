@@ -9,3 +9,9 @@
     :target: fpc-sht40/index.html
 
 .. _FPC-SHT40: fpc-sht40/index.html
+
+.. |FPC-OPT3001.png| image:: /_static/fpc-series/fpc-opt3001/img/FPC-OPT3001.png
+    :width: 400px
+    :target: fpc-opt3001/index.html
+
+.. _FPC-OPT3001: fpc-opt3001/index.html

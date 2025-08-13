@@ -41,6 +41,8 @@ FPC-Series
 
 ================== ==================
 |FPC-SHT30|        |FPC-ENV2|
+------------------ ------------------
+|FPC-OPT3001|
 ================== ==================
 
 .. |FPC-SHT30| image:: /_static/fpc-series/fpc-sht30/img/FPC-SHT30.png
@@ -55,6 +57,11 @@ FPC-Series
 
 .. _FPC-ENV2: fpc-series/fpc-sht40/index.html
 
+.. |FPC-OPT3001| image:: /_static/fpc-series/fpc-opt3001/img/FPC-OPT3001.png
+    :width: 400px
+    :target: fpc-series/fpc-opt3001/index.html
+
+.. _FPC-OPT3001: fpc-series/fpc-opt3001/index.html
 
 .. toctree::
     :hidden:
